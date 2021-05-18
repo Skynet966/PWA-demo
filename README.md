@@ -1,6 +1,6 @@
-# PWA-demo1
+# PWA-demo
 
-References
+**References**
 
 Generate menifest.json and icons  
   https://realfavicongenerator.net/  
