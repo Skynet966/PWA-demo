@@ -6,8 +6,8 @@
 	"display": "fullscreen",
 	"description": "Search engine optimization",
 	"orientation": "portrait",
-	"scope": "/",
-	"start_url": "/",
+	"scope": "./",
+	"start_url": "./",
 	"icons": [
 		{
 			"src": "./icon/android-chrome-192x192.png",
